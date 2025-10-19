@@ -13,6 +13,7 @@ It identifies the **Top 10 most populated countries in 2023** and visualizes **p
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
 - pycountry
+All required packages are listed in `requirements.txt`.
 
 ## 📊 Key Insights
 - India and China remain the most populated countries.
