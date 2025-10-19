@@ -17,7 +17,7 @@ It identifies the **Top 10 most populated countries in 2023** and visualizes **p
 
 ## 📊 Key Insights
 - India and China remain the most populated countries.
-- Rapid growth is observed in African and South Asian nations.
+- The world population has been steadily increasing since 2000, but the growth rate is slowing down in some countries.
 - Visualization shows clear global demographic trends.
 
 
